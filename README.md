@@ -29,7 +29,7 @@ git commit -m "Your message here"
 #push the repo to github
 git push
 ```
-4. You can open [git](https://github.com) and create a pull request.
+4. You can open [github](https://github.com) and create a pull request.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
